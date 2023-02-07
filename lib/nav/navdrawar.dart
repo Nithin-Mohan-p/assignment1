@@ -58,18 +58,18 @@ class HomeScreen extends StatelessWidget {
                       // "https://tse3.mm.bing.net/th?id=OIP.NAY3X8ZwIoIl570_EBUvpQHaFj&pid=Api&P=0"),
                       //  ),
                       ),
-                  otherAccountsPictures: const [
-                    CircleAvatar(
-                      backgroundColor: Colors.white,
-                      backgroundImage: NetworkImage(
-                          "https://tse4.mm.bing.net/th?id=OIP.13xOcv2L6QLEt-61izE67AHaEK&pid=Api&P=0"),
-                    ),
-                    CircleAvatar(
-                      backgroundColor: Colors.white,
-                      backgroundImage: NetworkImage(
-                          "https://images.cinemaexpress.com/uploads/user/imagelibrary/2017/12/4/original/Dulquer.jpg"),
-                    ),
-                  ],
+                  // otherAccountsPictures: const [
+                  // CircleAvatar(
+                  //  backgroundColor: Colors.white,
+                  //  backgroundImage: NetworkImage(
+                  //  "https://tse4.mm.bing.net/th?id=OIP.13xOcv2L6QLEt-61izE67AHaEK&pid=Api&P=0"),
+                  //),
+                  //  CircleAvatar(
+                  //  backgroundColor: Colors.white,
+                  //  backgroundImage: NetworkImage(
+                  //     "https://images.cinemaexpress.com/uploads/user/imagelibrary/2017/12/4/original/Dulquer.jpg"),
+                  // ),
+                  //  ],
                 ),
                 const SizedBox(
                   height: 50,
